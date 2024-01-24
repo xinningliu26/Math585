@@ -10,4 +10,26 @@ Your course grade will be determined by the following weighting:
 In addition, in order to pass the course, you must complete all of the core course components:
 • Survey paper
 • Short presentation 
-• Long presentation • Poster presentation
+• Long presentation 
+• Poster presentation
+
+Additional Learning Objectives:
+• Making the student/supervisor relationship productive.
+• Leveraging professional organizations and grants.
+• Taking charge of your well-being: mental health and time management. 
+• Developing a CV and Teaching Dossier.
+• Finding, and making the most of, conferences.
+• Postsecondary teaching:
+– classroom management basics,
+– active learning,
+– formative and summative assessment design,
+– accessible and equitable classrooms,
+– other topics available by request (to be discussed in class)
+• Learn two technical skills (multiple pairs permitted):
+– Rstudio
+– Jupiter Notebooks
+– GitHub
+– Professional academic website design
+– Intermediate LATEX: building figures
+– Intermediate LATEX: bibtex and related tools
+– other topics available by proposal (to be discussed in class)
